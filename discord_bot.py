@@ -18,7 +18,7 @@ bot = discord.Client(intents=intents)
 
 # ------------------- Roles Mapping (Your Final 5 Roles) -------------------
 ROLE_MAPPING = [
-    {"key": "has_founder",      "role_id": , "name": "Founder"},
+    {"key": "has_founder",      "role_id": 1400496639680057407, "name": "Founder"},
     {"key": "has_co_owner",     "role_id": 1411084822365077534, "name": "Co-owner"},
     {"key": "has_management",   "role_id": 1400496639675990032, "name": "Management Team"},
     {"key": "has_moderation",   "role_id": 1400496639675990033, "name": "Moderation Team"},
